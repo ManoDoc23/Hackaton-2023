@@ -17,4 +17,4 @@ Algorithmes d’aide à la décision, de détection des fraudes, d’attribution
 Algorithmes de recommandations d’achats, de classement des pages web, de distribution de l’information.
 Utilisés par la CAF, l’administration fiscale, ParcoursSup, Trouve mon Master, SNCF, Amazon, Netflix, Google, Facebook, X, ChatGPT, Midjourney, etc.
 
-*L'enquête présentée est le fruit du travail d'Elise, Louise, Damien, Maxime et Julie (IJBA), Noé et Marie-Noëlle (InFoNum), Safouane et Maxime (informatique)
+*L'enquête présentée est le fruit du travail d'Elise, Louise, Damien, Maxime et Julie (de l'IJBA), Noé et Marie-Noëlle ( L3 InFoNum- IUT Bordeaux-Montaigne), Safouane et Maxime (M1 Informatique-Université de Bordeaux)
